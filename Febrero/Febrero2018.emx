@@ -1873,6 +1873,19 @@
       <packagedElement xmi:type="uml:Dependency" xmi:id="_gfz08A9bEemgO9UIPvkw2Q" supplier="_xRlpsA9TEemM7p1ILrR4hw" client="_BNznEA9aEemgO9UIPvkw2Q"/>
       <packagedElement xmi:type="uml:Dependency" xmi:id="_hDfw0A9bEemgO9UIPvkw2Q" supplier="_xRlpsA9TEemM7p1ILrR4hw" client="_AKvAgA9aEemgO9UIPvkw2Q"/>
       <packagedElement xmi:type="uml:Dependency" xmi:id="_hlkjIA9bEemgO9UIPvkw2Q" supplier="_xRlpsA9TEemM7p1ILrR4hw" client="_-sjyUA9ZEemgO9UIPvkw2Q"/>
+      <packagedElement xmi:type="uml:Collaboration" xmi:id="_r0h5IBAZEembtc8UicZ_Xw" name="Collaboration1">
+        <ownedBehavior xmi:type="uml:Interaction" xmi:id="_r0mKkBAZEembtc8UicZ_Xw" name="Interaction1">
+          <eAnnotations xmi:id="_r0-lEBAZEembtc8UicZ_Xw" source="uml2.diagrams">
+            <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_r0-lERAZEembtc8UicZ_Xw" type="Sequence" element="_r0mKkBAZEembtc8UicZ_Xw" name="read" measurementUnit="Himetric">
+              <children xmi:type="umlnotation:UMLShape" xmi:id="_r0-lEhAZEembtc8UicZ_Xw" element="_r0mKkBAZEembtc8UicZ_Xw" fontName="Segoe UI" fontHeight="8" fillColor="16250871" transparency="0" lineColor="12632258" lineWidth="1" showStereotype="Label">
+                <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_r0-lExAZEembtc8UicZ_Xw" type="interaction_compartment"/>
+                <children xmi:type="notation:BasicDecorationNode" xmi:id="_r0-lFBAZEembtc8UicZ_Xw" type="Name"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_r0-lFRAZEembtc8UicZ_Xw" x="793" y="793"/>
+              </children>
+            </contents>
+          </eAnnotations>
+        </ownedBehavior>
+      </packagedElement>
     </packagedElement>
   </packagedElement>
   <packagedElement xmi:type="uml:Package" xmi:id="_dzb50A9REemM7p1ILrR4hw" name="JPA">
