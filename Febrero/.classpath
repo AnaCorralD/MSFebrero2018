@@ -11,5 +11,12 @@
 			<attribute name="optional" value="true"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="eclipselink/eclipselink.jar"/>
+	<classpathentry kind="lib" path="eclipselink/javax.persistence_2.2.1.v201807122140.jar"/>
+	<classpathentry kind="lib" path="eclipselink/javax.persistence.source_2.2.1.v201807122140.jar"/>
+	<classpathentry kind="lib" path="eclipselink/org.eclipse.persistence.jpa.modelgen_2.7.3.v20180807-4be1041.jar"/>
+	<classpathentry kind="lib" path="eclipselink/org.eclipse.persistence.jpa.modelgen.source_2.7.3.v20180807-4be1041.jar"/>
+	<classpathentry kind="lib" path="eclipselink/org.eclipse.persistence.jpars_2.7.3.v20180807-4be1041.jar"/>
+	<classpathentry kind="lib" path="eclipselink/org.eclipse.persistence.jpars.source_2.7.3.v20180807-4be1041.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
