@@ -1730,9 +1730,7 @@
           <ownedParameter xmi:id="_CziIUBAWEemplpG-sEzfxg" name="Parameter1" type="_IXzscA9WEemgO9UIPvkw2Q" direction="return"/>
         </ownedOperation>
         <ownedOperation xmi:id="_t4eDoBAVEemplpG-sEzfxg" name="nuevaTransaccion">
-          <ownedParameter xmi:id="_Fh1hoBAWEemplpG-sEzfxg" name="Parameter1" direction="return">
-            <type xmi:type="uml:DataType" href="pathmap://UPIA_HOME/UPIAModelLibrary.emx#_-1DmkMIQEdur0ob4GOaOhQ?UPIAModelLibrary/SystemView/Transaction?"/>
-          </ownedParameter>
+          <ownedParameter xmi:id="_ckKi4BAYEembtc8UicZ_Xw" name="Parameter1" direction="return"/>
         </ownedOperation>
       </packagedElement>
       <packagedElement xmi:type="uml:Interface" xmi:id="_IXzscA9WEemgO9UIPvkw2Q" name="Transaction"/>
